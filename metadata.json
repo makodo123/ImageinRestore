@@ -1,0 +1,5 @@
+{
+  "name": "ImaginRestore",
+  "description": "A professional-grade, non-destructive image restoration tool powered by Gemini. Seamlessly remove watermarks, text, and objects with precision inpainting.",
+  "requestFramePermissions": []
+}
